@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import social_tele_keyboard
+
+social_tele_keyboard.main()

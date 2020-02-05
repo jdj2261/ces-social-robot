@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <name>test_game_server</name>
+  <version>0.0.1</version>
+  <description>The mini_bringup package</description>
+
+  <maintainer email="cspark@robocare.co.kr">cspark</maintainer>
+  <license>ROBOCARE</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>

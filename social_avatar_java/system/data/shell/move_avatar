@@ -1,0 +1,1 @@
+wmctrl -r 'Adobe Flash' -e 0,2000,100,500,200
